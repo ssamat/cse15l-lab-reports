@@ -1,2 +1,2 @@
-# **Welcome To My Page!** 
-![Image](http://url/b.jpg)
+# Hello, World!
+**this** formatting updates _as I type_
