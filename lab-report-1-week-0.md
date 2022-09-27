@@ -1,1 +1,1 @@
-# HELLO WORLD
+![Image](LabReportOne.png)
