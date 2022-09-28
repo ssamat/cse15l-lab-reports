@@ -1,1 +1,3 @@
-![Image](LabReportOne.png)
+# Screenshot
+
+>![Image](LabReportOne.png)
