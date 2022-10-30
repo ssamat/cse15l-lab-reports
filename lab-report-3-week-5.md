@@ -12,7 +12,7 @@ Using -size allows you to find files that the files that fit the range of sizes 
 Using -name allows you to find the name of all the files in which you want to get.
 ![Image](nameOne.png)
 ![Image](nameTwo.png)
-![Image](namethree.png)
+![Image](nameThree.png)
 
 **IName Code**
 Using -iname allows you to find the name of all the files in which you want to get, however it is not case-specific. This means it will return all files lowercase and uppercase. As you can see in the first example, both trials with s and S returned the same results
