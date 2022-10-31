@@ -50,7 +50,6 @@ $ find ./technical/biomed -name 1468*.txt
 ./technical/biomed/1468-6708-3-7.txt
 ./technical/biomed/1468-6708-3-3.txt
 ./technical/biomed/1468-6708-3-1.txt
-![Image](nameThree.png)
 ```
 
 ```
