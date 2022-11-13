@@ -6,7 +6,7 @@
 
 /start<Enter>
 This searches for the word "start" in the file
-![Image](Lab4start.png)
+![Image](Lab4st.png)
 
 ce
 Switching into input mode and deleting the word "start"
@@ -23,7 +23,7 @@ Using n. allows you to repeat the actions you just completed. So this allows me 
 
 :wq<enter>
 This saves the file. 
-![Image](Lab4wq.png)
+![Image](Lab4save.png)
 
 # Part 2
 Method 1 using VSC/SCP:
