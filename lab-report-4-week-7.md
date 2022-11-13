@@ -4,9 +4,9 @@
 
 /start<Enter>cebase<esc>n.n.n.:wq<enter>
 
-/start<Enter
+/start<Enter>
 This searches for the word "start" in the file
-![Image](Lab4start:.png)
+![Image](Lab4start.png)
 
 ce
 Switching into input mode and deleting the word "start"
