@@ -2,9 +2,9 @@
 
 # Part 1
 
-/start<Enter>cebase<esc>n.n.n.:wq<enter>
+/start -enter - cebase -esc- n.n.n.:wq -enter-
 
-/start<Enter>
+/start -Enter-
 This searches for the word "start" in the file
 ![Image](Lab4started.png)
 
@@ -12,7 +12,7 @@ ce
 Switching into input mode and deleting the word "start"
 ![Image](Lab4ce.png)
 
-base<esc>
+base-esc-
 This replaces the text and returning to insert mode
 ![Image](Lab4base.png)
 
@@ -21,7 +21,7 @@ Using n. allows you to repeat the actions you just completed. So this allows me 
 ![Image](Lab4n1.png)
 ![Image](Lab4n2.png)
 
-:wq<enter>
+:wq-enter-
 This saves the file. 
 ![Image](Lab4sav.png)
 
