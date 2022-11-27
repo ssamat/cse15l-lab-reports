@@ -9,3 +9,5 @@
 > [Lab Report Week 5](lab-report-3-week-5.md)
 
 > [Lab Report Week 7](lab-report-4-week-7.md)
+
+> [Lab Report Week 9](lab-report-5-week-9.md)
