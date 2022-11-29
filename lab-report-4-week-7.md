@@ -1,27 +1,35 @@
 # Lab Report 4
 
 # Part 1
+*Using the greater/less than symbols caused errors for my images. I decided to use hyphens to signifiy the keyboard movements instead.*
 
+```
 /start -enter - cebase -esc- n.n.n.:wq -enter-
-
+```
+```
 /start -Enter-
+```
 This searches for the word "start" in the file
 ![Image](Lab4started.png)
-
+```
 ce
+```
 Switching into input mode and deleting the word "start"
 ![Image](Lab4ce.png)
-
+```
 base-esc-
+```
 This replaces the text and returning to insert mode
 ![Image](Lab4base.png)
-
+```
 n.n.n.
+```
 Using n. allows you to repeat the actions you just completed. So this allows me to repeat the same algorithm consisting of searching for start and replacing it with base 3 times.
 ![Image](Lab4n1.png)
 ![Image](Lab4n2.png)
-
+```
 :wq-enter-
+```
 This saves the file. 
 ![Image](Lab4sav.png)
 
